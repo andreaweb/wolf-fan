@@ -4,7 +4,7 @@ class Homepage extends Component {
   render() {
     return (
     	<div className="bg">
-    		<h1>Wolf Fan</h1>
+    		
     	</div>
     );
   }
